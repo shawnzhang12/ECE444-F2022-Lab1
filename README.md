@@ -25,3 +25,8 @@ Link to teammate's repo: https://github.com/BoyuanShao/ECE444-F2022-Lab1
 
 **Activity 6**
 Link to EP Repo: https://github.com/shawnzhang12/ECE444-F2022-EP
+
+**Activity 7**
+
+![](images/activity7_1.png)
+![](images/activity7_2.png)
