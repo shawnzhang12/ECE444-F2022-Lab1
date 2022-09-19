@@ -30,3 +30,8 @@ Link to EP Repo: https://github.com/shawnzhang12/ECE444-F2022-EP
 
 ![](images/activity7_1.png)
 ![](images/activity7_2.png)
+
+**Activity 7**
+
+![](images/activity8_1.png)
+![](images/activity8_2.png)
